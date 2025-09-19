@@ -8,7 +8,7 @@
     }
 
     .bg-image {
-        background-image: url('Mainimg.jpg');
+        background-image: url('MainImg.jpg');
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
@@ -202,4 +202,5 @@
             transform: translateX(0);
         }
     }
+
 
